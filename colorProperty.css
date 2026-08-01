@@ -6,6 +6,8 @@ h1{
 p{
     color: aquamarine;
     background-color: black;
+    text-decoration: none;
+    text-align: center;
 
 }
 button{
