@@ -4,8 +4,14 @@ h1 {
 button {
     background-color: blue;
     color: white;
+    border: 10px;
+    border-radius: 9px;
+    border-color: black;
 }
 p {
     background-color: black;
     color: white;
+    text-align: center;
+    line-height: 1.5px;
+    text-decoration: none;
 }
