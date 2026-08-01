@@ -7,19 +7,19 @@ h1 {
     font-weight: bold;
 }
 
-#searchbtn {
+#Searchbtn {
     color: white;
     background-color: black;
     padding: 10px 5px;
-    border: 80px;
-    border-radius: 5px;
+    border: 70px;
+    border-radius: 10px;
 }
 
 .button {
     color: rgb(255, 255, 255);
     background-color: aqua;
     text-decoration: none;
-    padding: 10px 8px;
+    padding: 10px 10px;
     border: #1b74e4;
     border-radius: 10px;
 }
