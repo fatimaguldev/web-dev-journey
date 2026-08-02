@@ -1,12 +1,12 @@
 * {
     font-family: Courier New;  
+    font-size: 10px;
 }
-
 h1 {
     color: #1b74e4;
     font-weight: bold;
+    text-transform: capitalize;
 }
-
 #Searchbtn {
     color: white;
     background-color: black;
@@ -14,7 +14,6 @@ h1 {
     border: 70px;
     border-radius: 10px;
 }
-
 .button {
     color: rgb(255, 255, 255);
     background-color: aqua;
