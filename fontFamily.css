@@ -11,6 +11,7 @@ p {
     line-height: 2px;
     color: brown;
     font-size: 19px;
+    border: 10px;
 
 }
 button {
