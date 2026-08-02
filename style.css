@@ -9,4 +9,7 @@ h2 {
 }
 p {
     color: rgb(255, 87, 115);
+    text-align: center;
+    text-decoration: none;
+    text-transform: lowercase;
 }
