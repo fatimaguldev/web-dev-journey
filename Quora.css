@@ -80,3 +80,47 @@ input [type="text"] {
 input [type="passoword"] {
     color: red;
 }
+/* pseudo elements */
+button:hover {
+    background-color: black;
+    color: white;
+}
+h3:hover {
+    text-decoration:none;
+    color:black;
+}
+button:active{
+background-color: #b92b67;
+}
+p:active{
+    text-transform: capitalize;
+    color: #b92b67;
+    font-weight: bold;
+}
+input[type="radio"]:checked + label {
+color: #b92b67;
+font-weight: bold;
+
+}
+div:nth-of-type(2n) {
+    background-color: rgb(178, 227, 211);
+}
+h1::first-letter{
+    color: green;
+}
+
+p::first-line{
+    color: rgb(255, 25, 117);
+}
+p::selection{
+    background-color: rgb(183, 227, 25);
+}
+/* cascading */
+
+h3{
+    background-color: yellow;
+}
+h3{
+    background-color: green;
+    color:white;
+}
