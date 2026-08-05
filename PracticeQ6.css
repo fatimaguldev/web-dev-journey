@@ -2,12 +2,15 @@ h1 {
     color: palevioletred;
     text-align: center;
 }
+
 #greet {
     color: rgb(122, 122, 0);
 }
+
 .myclass {
     color: brown;
 }
+
 p{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 600;
