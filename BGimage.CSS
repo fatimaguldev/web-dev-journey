@@ -1,0 +1,10 @@
+div{
+    width: 800px;
+    height: 600px;
+    margin: 10px auto;
+    background-color: aquamarine;
+    background-image: url(backgroundImage.jpg);
+    background-size: cover;
+    color: rgb(30, 28, 28);
+    text-align: center;
+}
