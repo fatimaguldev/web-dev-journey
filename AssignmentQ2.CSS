@@ -5,27 +5,34 @@
 * {
     text-align: center;
 }
+
 h1, h3, h5 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
 .content {
 background-color: cornflowerblue;
 color: rgb(255, 255, 255);
 }
+
 div button {
     background-color: purple;
     color: azure;
 }
+
 button:hover {
     background-color: yellow;
     color: blue;
 }
+
 p:nth-of-type(2n+1) {
     color: yellow;
 }
+
 h1::first-letter {
-    color: red;
+    color: rgb(147, 23, 23);
 }
+
 #yes checked + label {
     color: green;
 }
