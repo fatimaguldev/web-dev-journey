@@ -5,8 +5,9 @@
     margin: 10px auto;
     border: 2px solid black;
     display: flex;
-    flex-direction: row-reverse;
-    justify-content: center;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
 }
 h1 {
     text-align: center;
@@ -16,6 +17,6 @@ h1 {
     color: white;
     text-align: center;
     font-size: 1.5em;
-    width: 100px;
+    width: 200px;
     font-family: sans-serif;
 }
