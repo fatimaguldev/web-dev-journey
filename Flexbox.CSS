@@ -8,6 +8,7 @@
     flex-direction: row;
     justify-content: flex-start;
     flex-wrap: wrap;
+    flex-basis: 100px;
 }
 h1 {
     text-align: center;
