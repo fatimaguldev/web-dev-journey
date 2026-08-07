@@ -16,9 +16,12 @@ button{
     color: white;
     padding: 10px;
     border-radius: 8px;
+    border-color: azure;
    
 }
  button:hover {
     background-color: blueviolet;
     color: beige;
+    border-radius: 10px;
+    border-color: black;
  }
