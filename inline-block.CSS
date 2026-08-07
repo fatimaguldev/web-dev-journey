@@ -8,5 +8,6 @@ display: inline-block;
 }
 
 #third {
-    display: none;
+    display: inline-block;
+    color: black;
 }
