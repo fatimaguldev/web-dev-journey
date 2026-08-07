@@ -7,10 +7,10 @@ div {
     text-align: center;
     background-color: rgb(9, 111, 154);
     margin: 10px auto;
-    border: 2px sold black;
+    border: 1px sold black;
 }
 div:nth-of-type(2n) {
-    background-color: coral;
+    background-color: rgb(251, 139, 99);
 
 }
 div:nth-of-type(3n) {
