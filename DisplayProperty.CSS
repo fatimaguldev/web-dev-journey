@@ -6,4 +6,5 @@ h2 {
 span {
     display: block;
     background-color: bisque;
+    text-align: center;
 }
