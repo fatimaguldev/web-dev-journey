@@ -17,6 +17,8 @@ p {
 button {
     color: blue;
     background-color: white;
+    border-radius: 10px;
+    border-color: white;
 }
 a {
     text-decoration: none;
