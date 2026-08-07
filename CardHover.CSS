@@ -15,6 +15,7 @@ img {
     height: 200px;
     object-fit: contain;
     display: block;
+    border-radius: 5px;
 }
 
 .desc {
