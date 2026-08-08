@@ -16,10 +16,13 @@ img {
     object-fit: contain;
     display: block;
     border-radius: 5px;
+
 }
 
 .desc {
     padding: 10px;
+    font-size: 10px;
+    font-family: sans-serif;
 }
 
 .card:hover {
