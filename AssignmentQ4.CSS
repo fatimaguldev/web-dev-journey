@@ -18,7 +18,7 @@
 #box2 {
   width: 100px;
   height: 100px;
-  background: red;
+  background: rgb(96, 0, 0);
   transform: rotate(90deg);
   transform: translateX(200px);
   transform: translateY(200px);
@@ -29,7 +29,7 @@
 #box3 {
   width: 100px;
   height: 100px;
-  background: lightblue;
+  background: rgb(32, 109, 135);
   transform: skewX(20deg);
 }
 
@@ -39,7 +39,7 @@
 #box4 {
   width: 100px;
   height: 100px;
-  background: lightgreen;
+  background: rgb(111, 210, 111);
   box-shadow: 2px 2px 5px green;
 }
 
