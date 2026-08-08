@@ -4,8 +4,7 @@ div {
     margin: 10px auto;
     border: 2px;
     background-color: rgb(123, 37, 204);
-    border-radius: 10px;
+    border-radius: 9px;
     border-color: black;
     display: flex;
-
 }
