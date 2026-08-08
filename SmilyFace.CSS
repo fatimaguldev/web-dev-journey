@@ -4,7 +4,7 @@
     background-color: #ffa511;
     border-radius: 50%;
 }
-.mouth
+.Mouth
 {
     width: 200px;
     height: 75px;
@@ -15,7 +15,7 @@
     left: 100px;
 
 }
-.left-eye, .right-eye {
+.Left-eye, .Right-eye {
     height: 50px;
     width: 50px;
     background-color: black;
