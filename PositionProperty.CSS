@@ -45,7 +45,7 @@ div {
 }
 #absolute {
     background-color: rgb(155, 36, 38);
-    position: absolute;
+    position: fixed;
     top: 60px;
     left: 100px;
 } 
@@ -60,7 +60,7 @@ div {
     display: inline-block;
 }
 #absolute {
-    background-color: rgb(155, 36, 38);
+    background-color: rgb(106, 18, 19);
     position: fixed;
     top: 50px;
     left: 100px;
