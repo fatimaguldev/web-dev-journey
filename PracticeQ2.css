@@ -2,6 +2,7 @@ h1{
     background-color: rgb(255, 255, 10);
     text-decoration: underline;
     text-align: center;
+    text-decoration: double;
 }
 p {
     background-color: antiquewhite;
