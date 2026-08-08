@@ -12,6 +12,8 @@ text-area {
 button {
     color: blueviolet;
     background-color: white;
+    border-radius: 9px;
+    border-color: beige;
 }
 a{ 
     color: rgb(0, 255, 0);
