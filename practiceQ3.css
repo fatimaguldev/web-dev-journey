@@ -7,7 +7,7 @@ h1 {
     line-height: normal 1.5px;
     letter-spacing: 1.5px;
     text-decoration: teal double underline;
-    text-transform: uppercase;
+    text-transform: capitalize;
 
 }
 p{
