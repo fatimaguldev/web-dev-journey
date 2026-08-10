@@ -7,7 +7,7 @@
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
-    flex-wrap: wrap;
+    flex-wrap: wrap-reverse;
     flex-basis: 100px;
 }
 h1 {
