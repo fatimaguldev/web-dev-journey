@@ -9,14 +9,14 @@ p{
     text-decoration: wavy;
     line-height: 2.5;
     font-size: 17px;
-    color: brown;
+    color: rgb(170, 11, 11);
 }
 h2 {
     text-align: left;
     text-decoration: wavy underline;
 }
 h4 {
-    color: blue;
+    color: rgb(3, 3, 202);
 }
 a {
     text-decoration: none;
