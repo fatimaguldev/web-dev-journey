@@ -5,16 +5,16 @@ div {
     width: 200px;
     height: 50px;
     text-align: center;
-    background-color: rgb(9, 111, 154);
+    background-color: rgb(15, 117, 160);
     margin: 10px auto;
     border: 2px sold black;
 }
 div:nth-of-type(2n) {
-    background-color: rgb(251, 139, 99);
+    background-color: rgb(232, 127, 89);
 
 }
 div:nth-of-type(3n) {
-    background-color: rgb(215, 111, 146);
+    background-color: rgb(174, 47, 90);
     color: azure;
 }
 
