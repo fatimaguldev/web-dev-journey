@@ -1,0 +1,40 @@
+.box {
+    height: 100px;
+    width: 300px;
+    background-color: pink;
+    border: 2px solid rgb(171, 61, 20);
+    border-radius: 10px;
+    text-align: center;
+
+    animation-name: fontAnimation;
+    animation-duration: 2s;
+    animation-delay: 0s;
+    animation-timing-function: ease-in;
+    animation-iteration-count: 3;
+    animation-direction: normal;
+
+     /* animation-name: colorAnimation;
+    animation-duration: 2s;
+    animation-delay: 0s;
+    animation-timing-function: ease-in;
+    animation-iteration-count: 3;
+    animation-direction: normal; */
+
+}
+h1 {
+    font-family: sans-serif;
+    font-weight: bold;
+    color: blueviolet;
+}
+ 
+@keyframes fontAnimation {
+    from {
+        font-size:20px;
+         background-color:pink;
+    }
+    to {
+        font-size:40px;
+        background-color:chartreuse;
+    }
+}
+
