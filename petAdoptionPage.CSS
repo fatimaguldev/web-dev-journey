@@ -1,0 +1,55 @@
+.card {
+  width: 400px;
+  border: 2px solid black;
+  border-radius: 25px;
+  padding: 10px;
+  margin: 10px;
+}
+
+img {
+  width: 100%;
+  border-radius: 25px;
+}
+
+h2 {
+  color: #d56f3e;
+}
+
+span {
+  color: #006cb4;
+}
+
+h3 {
+    color: #006cb4;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+#pets {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+* {
+    font-family: sans-serif;
+}
+
+p {
+    text-align: justify;
+    line-height: normal;
+}
+
+header {
+    text-align: right;
+    color: #3c787e;
+}
+
+/* let set its responsiveness for iphone se */
+
+@media (max-width: 375px) {
+    #pets {
+        flex-direction: column;
+    }
+}
