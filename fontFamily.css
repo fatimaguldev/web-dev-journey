@@ -1,28 +1,25 @@
 h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 20px;
-    font-style: impact;
-    color: green;
-    font-weight: 800;
-
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+  font-style: impact;
+  color: green;
+  font-weight: 800;
 }
 p {
-    font-family: sans-serif;
-    line-height: 2px;
-    color: rgb(43, 35, 35);
-    font-size: 19px;
-    border: 10px;
-
+  font-family: sans-serif;
+  line-height: 2px;
+  color: rgb(43, 35, 35);
+  font-size: 19px;
+  border: 10px;
 }
 button {
-    color: blue;
-    background-color: white;
-    border-radius: 9px;
-    border-color: white;
+  color: blue;
+  background-color: white;
+  border-radius: 9px;
+  border-color: white;
 }
 a {
-    text-decoration: none;
-    color: black;
-    font: 900;
-
+  text-decoration: none;
+  color: black;
+  font: 900;
 }
