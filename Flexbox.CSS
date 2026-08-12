@@ -1,23 +1,23 @@
 #container {
-    height: 300px;
-    width: 80%;
-    background-color: azure;
-    margin: 10px auto;
-    border: 2px solid black;
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    flex-wrap: wrap-reverse;
-    flex-basis: 100px;
+  height: 300px;
+  width: 80%;
+  background-color: azure;
+  margin: 10px auto;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap-reverse;
+  flex-basis: 100px;
 }
 h1 {
-    text-align: center;
+  text-align: center;
 }
 #container div {
-    height: 100px;
-    color: white;
-    text-align: center;
-    font-size: 1.5em;
-    width: 200px;
-    font-family: sans-serif;
+  height: 100px;
+  color: white;
+  text-align: center;
+  font-size: 1.5em;
+  width: 200px;
+  font-family: sans-serif;
 }
