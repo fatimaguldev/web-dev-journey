@@ -4,11 +4,9 @@
     width: 150px;
     height: 150px;
 }
-
 .one {
     background-color: aqua;
 }
-
 .two {
     background-color: brown;
     position: relative;
