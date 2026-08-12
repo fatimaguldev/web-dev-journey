@@ -1,14 +1,14 @@
 div {
-    width: 200px;
-    height: 100px;
-    text-align: center;
-    background-color: rgb(9, 111, 154);
-    margin: 10px auto;
-    border: 2px sold black;
-    text-align: center;
-    color: white;
-    font-family: sans-serif;
-    font-weight: bold;
-    box-shadow: 2px 2px 5px black;
-    border-radius: 10px;
+  width: 200px;
+  height: 100px;
+  text-align: center;
+  background-color: rgb(9, 111, 154);
+  margin: 10px auto;
+  border: 2px sold black;
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  box-shadow: 2px 2px 5px black;
+  border-radius: 10px;
 }
