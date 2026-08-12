@@ -1,27 +1,25 @@
-    div {
-        background-color: aquamarine;
-    }
-    form {
-        background-color: bisque;
-    }
-    h2 {
-        background-color: chartreuse;
-    }
-    input {
-        background-color: aqua;
-
-    }
-    button{
-        background-color: black;
-        color: white;
-        padding: 10px;
-        border-radius: 8px;
-        border-color: azure;
-    
-    }
-    button:hover {
-        background-color: blueviolet;
-        color: beige;
-        border-radius: 10px;
-        border-color: black;
-    }
+div {
+  background-color: aquamarine;
+}
+form {
+  background-color: bisque;
+}
+h2 {
+  background-color: chartreuse;
+}
+input {
+  background-color: aqua;
+}
+button {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+  border-color: azure;
+}
+button:hover {
+  background-color: blueviolet;
+  color: beige;
+  border-radius: 10px;
+  border-color: black;
+}
