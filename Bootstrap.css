@@ -1,0 +1,18 @@
+.container {
+    background-color: yellow;
+}
+
+.badge {
+    background-color: aqua;
+}
+
+/* .btn-danger {
+    background-color: pink;
+} */
+
+.navbar-brand {
+    color:azure;
+}
+.nav-link active {
+    color: azure;
+}
