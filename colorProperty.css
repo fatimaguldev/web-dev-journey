@@ -1,20 +1,19 @@
-h1{
-    background-color: blueviolet;
-    color: white;
-    text-align: justify;
+h1 {
+  background-color: blueviolet;
+  color: white;
+  text-align: justify;
 }
 
-p{
-    color: aquamarine;
-    background-color: black;
-    text-decoration: none;
-    text-align: center;
-
+p {
+  color: aquamarine;
+  background-color: black;
+  text-decoration: none;
+  text-align: center;
 }
-button{
-    color: rgb(241, 239, 244);
-    background-color: black;
-    padding: 10px 5px 10px 5px;
-    border-radius: 9px;
-    border-color: rgb(43, 40, 40);
+button {
+  color: rgb(241, 239, 244);
+  background-color: black;
+  padding: 10px 5px 10px 5px;
+  border-radius: 9px;
+  border-color: rgb(43, 40, 40);
 }
