@@ -1,17 +1,17 @@
 div p {
-    color: green;
-    text-align: center;
+  color: green;
+  text-align: center;
 }
 h3 {
-    text-align: center;
-    text-transform: capitalize;
-    text-decoration: underline;
+  text-align: center;
+  text-transform: capitalize;
+  text-decoration: underline;
 }
 h4 {
-    text-align: center;
+  text-align: center;
 }
 
 * {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 17px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 17px;
 }
