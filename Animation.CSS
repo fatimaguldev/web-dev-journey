@@ -13,7 +13,7 @@
     animation-iteration-count: 3;
     animation-direction: normal;
 
-     /* animation-name: colorAnimation;
+    /* animation-name: colorAnimation;
     animation-duration: 2s;
     animation-delay: 0s;
     animation-timing-function: ease-in;
@@ -21,20 +21,21 @@
     animation-direction: normal; */
 
 }
+
 h1 {
     font-family: sans-serif;
     font-weight: bold;
     color: blueviolet;
 }
- 
+
 @keyframes fontAnimation {
     from {
-        font-size:20px;
-         background-color:pink;
+        font-size: 20px;
+        background-color: pink;
     }
+
     to {
-        font-size:40px;
-        background-color:chartreuse;
+        font-size: 40px;
+        background-color: chartreuse;
     }
 }
-
