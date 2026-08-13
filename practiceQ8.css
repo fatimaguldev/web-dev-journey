@@ -1,13 +1,13 @@
 div .greetDiv .greet {
-    color: blueviolet;
+  color: blueviolet;
 }
 
 .greetDiv p.greet {
-    color: brown;
+  color: brown;
 }
 
 .greetDiv .greet {
-    color: pink;
+  color: pink;
 }
 
 /* which one will have pink color  */
