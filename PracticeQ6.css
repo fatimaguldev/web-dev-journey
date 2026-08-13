@@ -1,19 +1,19 @@
 h1 {
-    color: palevioletred;
-    text-align: center;
-    text-transform: capitalize;
+  color: palevioletred;
+  text-align: center;
+  text-transform: capitalize;
 }
 
 #greet {
-    color: rgb(122, 122, 0);
+  color: rgb(122, 122, 0);
 }
 
 .myclass {
-    color: brown;
+  color: brown;
 }
 
-p{
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 600;
-    text-align: center;
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  text-align: center;
 }
