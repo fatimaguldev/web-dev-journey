@@ -1,14 +1,14 @@
 .box {
-    background-color: blueviolet;
-    border: 2px solid black;
-    width: 150px;
-    height: 150px;
+  background-color: blueviolet;
+  border: 2px solid black;
+  width: 150px;
+  height: 150px;
 }
 .one {
-    background-color: aqua;
+  background-color: aqua;
 }
 .two {
-    background-color: brown;
-    position: relative;
-    bottom: 50px;
+  background-color: brown;
+  position: relative;
+  bottom: 50px;
 }
