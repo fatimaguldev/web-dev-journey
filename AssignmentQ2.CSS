@@ -1,38 +1,40 @@
 #mainTopic {
-    background-color: blue;
-    color: white;
+  background-color: blue;
+  color: white;
 }
 * {
-    text-align: center;
+  text-align: center;
 }
 
-h1, h3, h5 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+h1,
+h3,
+h5 {
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .content {
-background-color: cornflowerblue;
-color: rgb(255, 255, 255);
+  background-color: cornflowerblue;
+  color: rgb(255, 255, 255);
 }
 
 div button {
-    background-color: purple;
-    color: azure;
+  background-color: purple;
+  color: azure;
 }
 
 button:hover {
-    background-color: yellow;
-    color: blue;
+  background-color: yellow;
+  color: blue;
 }
 
-p:nth-of-type(2n+1) {
-    color: yellow;
+p:nth-of-type(2n + 1) {
+  color: yellow;
 }
 
 h1::first-letter {
-    color: rgb(147, 23, 23);
+  color: rgb(147, 23, 23);
 }
 
 #yes checked + label {
-    color: green;
+  color: green;
 }
