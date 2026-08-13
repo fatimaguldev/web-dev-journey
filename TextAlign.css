@@ -1,23 +1,23 @@
 h1 {
-    text-align: center;
-   text-decoration: green underline;
-   letter-spacing: 5px;
-   font-size: 50px;
+  text-align: center;
+  text-decoration: green underline;
+  letter-spacing: 5px;
+  font-size: 50px;
 }
-p{
-    text-align: justify;
-    text-decoration: wavy;
-    line-height: 2.5;
-    font-size: 17px;
-    color: rgb(170, 11, 11);
+p {
+  text-align: justify;
+  text-decoration: wavy;
+  line-height: 2.5;
+  font-size: 17px;
+  color: rgb(170, 11, 11);
 }
 h2 {
-    text-align: left;
-    text-decoration: wavy underline;
+  text-align: left;
+  text-decoration: wavy underline;
 }
 h4 {
-    color: rgb(3, 3, 202);
+  color: rgb(3, 3, 202);
 }
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
