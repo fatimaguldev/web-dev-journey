@@ -2,7 +2,7 @@
     height: 100px;
     width: 300px;
     background-color: pink;
-    border: 2px solid rgb(171, 61, 20);
+    border: 1px solid rgb(171, 61, 20);
     border-radius: 10px;
     text-align: center;
     animation-name: fontAnimation;
